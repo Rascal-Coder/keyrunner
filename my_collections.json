@@ -1,0 +1,35 @@
+[
+  {
+    "childCollections": [],
+    "description": "",
+    "id": "65db4ece-2d82-4c23-85bc-b72d69c64eba",
+    "name": "nest_learn",
+    "parentCollection": "",
+    "projectId": "",
+    "requests": [],
+    "tenantId": "",
+    "authDTO": {
+      "typeDTO": "NONE"
+    },
+    "workspaceId": "",
+    "createdDate": "2025-01-23T08:21:28.950Z"
+  },
+  {
+    "childCollections": [],
+    "description": "",
+    "id": "bf8193d7-f4e3-43ca-a27c-c7481abe6a87",
+    "name": "login and register",
+    "parentCollection": "65db4ece-2d82-4c23-85bc-b72d69c64eba",
+    "projectId": "",
+    "requests": [],
+    "tenantId": "",
+    "authDTO": {
+      "typeDTO": "NONE"
+    },
+    "workspaceId": "",
+    "createdDate": "2025-01-23T08:21:51.682Z",
+    "variables": [],
+    "type": "COLLECTION",
+    "modifiedDate": "2025-01-23T08:21:57.414Z"
+  }
+]
