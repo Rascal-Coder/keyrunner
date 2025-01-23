@@ -1,0 +1,14 @@
+envs/
+.DS_Store
+all_cookies.json
+previous_requests.json
+vaults/
+tokens.json
+**/secretScanResults/
+
+**/envs/
+**/.DS_Store
+**/all_cookies.json
+**/previous_requests.json
+**/vaults/
+**/tokens.json
